@@ -1,6 +1,6 @@
 ## Intro
 
-Hello! My name is Brian Shie, i am currently an analytics intern at Itaú-Unibanco and a 9th semester economics student at EESP-FGV
+Hello! My name is Brian Shie and i am currently an analytics intern at Itaú-Unibanco and a 9th semester economics student at EESP-FGV
 
 In my free time i like to play and automate games.
 
