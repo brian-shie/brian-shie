@@ -4,9 +4,18 @@ Hello! My name is Brian Shie and i am currently an analytics intern at Itaú-Uni
 
 In my free time i like to play and automate games.
 
-[![Linkedin: Brian](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brian-shie/)](https://www.linkedin.com/in/brian-shie/)
+[![Linkedin: Brian](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brian-shie/)](https://www.linkedin.com/in/brian-shie/) <br><br>
+
+
+[![Brian's GitHub stats](https://github-readme-stats.vercel.app/api?username=brian-shie&hide=contribs&count_private=true&show_icons=true&theme=radical&bg_color=DEG,25233d,000000&border_color=706d8c&custom_title=Brian's+GitHub+Stats)](https://github.com/brian-shie)
 
 <!---
 brian-shie/brian-shie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+<!---
+<div style="display: inline_block"><br>
+  <img align="center" alt="Brian-Python" height="30" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Brian-RStudio" height="30" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rstudio/rstudio-plain.svg"> <br>  
+  <br>
+</div>
