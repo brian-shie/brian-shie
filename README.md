@@ -6,10 +6,8 @@ In my free time i like to play and automate games.
 
 [![Linkedin: Brian](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brian-shie/)](https://www.linkedin.com/in/brian-shie/) <br><br>
 
-<div align="center">
-  <a href="https://github.com/brian-shie">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=brian-shie&hide=contribs&count_private=true&show_icons=true&theme=radical&bg_color=DEG,25233d,000000&border_color=706d8c&custom_title=Brian's+GitHub+Stats"/>
-</div>
+![GitHub: Brian](https://github-readme-stats.vercel.app/api?username=brian-shie&hide=contribs&count_private=true&show_icons=true&theme=radical&bg_color=DEG,25233d,000000&border_color=706d8c&custom_title=Brian's+GitHub+Stats)
+
 
 <!-- [![Brian's GitHub stats](https://github-readme-stats.vercel.app/api?username=brian-shie&hide=contribs&count_private=true&show_icons=true&theme=radical&bg_color=DEG,25233d,000000&border_color=706d8c&custom_title=Brian's+GitHub+Stats)](https://github.com/brian-shie)
  -->
