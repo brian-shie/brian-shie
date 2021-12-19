@@ -10,14 +10,14 @@ In my free time i like to play and automate games.
   <a href="https://github.com/brian-shie">
     <img
       align="center"
-         height="180"
+         height="170"
       src="https://github-readme-stats.vercel.app/api?username=brian-shie&hide=contribs&count_private=true&show_icons=true&theme=radical&bg_color=DEG,25233d,000000&border_color=706d8c&custom_title=Brian's+GitHub+Stats"
     />
   </a>
   <a href="https://github.com/brian-shie">
     <img
       align="center"
-      height="180"
+      height="170"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=brian-shie&layout=compact&langs_count=7&count_private=true&show_icons=true&theme=radical&bg_color=DEG,000000,25233d&border_color=706d8c"
     />
   </a>
