@@ -31,7 +31,7 @@ In my free time i like to play and automate games.
 brian-shie/brian-shie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<!---
+<!---a
 <div style="display: inline_block"><br>aa
   <img align="center" alt="Brian-Python" height="30" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Brian-RStudio" height="30" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rstudio/rstudio-plain.svg"> <br>  
