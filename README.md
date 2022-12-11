@@ -1,7 +1,6 @@
 ## Intro
 
-Hello! My name is Brian Shie and I am currently an analytics intern at Itaú-Unibanco and a 9th semester economics student at EESP-FGV
-
+Hello! My name is Brian Shie and I am currently an credit analyst at Bradesco and graduated at EESP / FGV -SP in Economic Sciences.
 In my free time i like to play and automate games.
 
 [![Linkedin: Brian](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brian-shie/)](https://www.linkedin.com/in/brian-shie/) <br><br>
